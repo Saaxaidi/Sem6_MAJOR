@@ -2,7 +2,7 @@ n= int(input("Enter the number of price: "))
 prices=[]
 product =1 
 total_sum =0
- 
+
 for i in range(n):
     price = int(input("enter the price: "))
     prices.append(price)
@@ -19,4 +19,3 @@ for i in range(n):
     print("product: ",product)
     print ("average: ", average)
     
- 

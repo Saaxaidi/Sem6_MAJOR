@@ -1,5 +1,4 @@
-# Programming with Python -6th sem
-# Course Code: CABSMJ6P06
+# Programming with Python -6th sem, Course Code: CABSMJ6P06
 This repository contains all practical lab programs implemented as part of Laboratory Course-VI (Programming with Python) for B.Sc. (CA) VI Semester.
 The lab focuses on building strong programming fundamentals using Python, covering:
 Core Python syntax
